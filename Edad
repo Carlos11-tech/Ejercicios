@@ -56,7 +56,6 @@ else
 }
 
 
-
-
+printf("Bienvenidos a este programa");
 
 }
